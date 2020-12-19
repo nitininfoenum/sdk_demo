@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "730303114171",
+    "project_id": "demosdk-59aa0",
+    "storage_bucket": "demosdk-59aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730303114171:android:186c4c068b91f750b9f29e",
+        "android_client_info": {
+          "package_name": "com.example.demosdklibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730303114171-td60a5llgiujkd8ioh00rr5i7aau1ep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_uPQXIJ3Mo6lPsOlpZIYeOwCZI01Eaes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730303114171-td60a5llgiujkd8ioh00rr5i7aau1ep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730303114171:android:4ca2505e42323d7db9f29e",
+        "android_client_info": {
+          "package_name": "com.example.librarydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730303114171-im01pq6mv527bts1pr0ogmci8sfgt2rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.librarydemo",
+            "certificate_hash": "3355531a562dcce44192cbdb9ce8f7b10ad7db0d"
+          }
+        },
+        {
+          "client_id": "730303114171-td60a5llgiujkd8ioh00rr5i7aau1ep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_uPQXIJ3Mo6lPsOlpZIYeOwCZI01Eaes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730303114171-td60a5llgiujkd8ioh00rr5i7aau1ep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

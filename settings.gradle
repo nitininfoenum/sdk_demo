@@ -1,0 +1,3 @@
+include ':demoSdklibrary'
+include ':app'
+rootProject.name = "LibraryDemo"
