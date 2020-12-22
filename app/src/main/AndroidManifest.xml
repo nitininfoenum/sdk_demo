@@ -10,7 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LibraryDemo">
+        android:theme="@style/Theme.LibraryDemo"
+        >
         <activity android:name=".MainActivity">
         </activity>
         <activity android:name="com.example.demosdklibrary.FirebaseLoginActivity">
