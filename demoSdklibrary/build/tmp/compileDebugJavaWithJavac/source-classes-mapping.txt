@@ -1,0 +1,2 @@
+com/example/demosdklibrary/BuildConfig.java
+ com.example.demosdklibrary.BuildConfig

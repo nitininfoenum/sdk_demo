@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:1-10:12
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:5:5-8:19
+activity#com.example.demosdklibrary.FirebaseLoginActivity
+ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:6:9-7:20
+	android:name
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml:6:19-56
+uses-sdk
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		ADDED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\NitinData\Projects\demo-sdk\demoSdklibrary\src\main\AndroidManifest.xml
